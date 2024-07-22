@@ -7,7 +7,7 @@ class Solution:
         if k == 0 or lng <= 1:
             return nums
 
-        tmp = [0] * lng
+        # tmp = [0] * lng
 
         # [0 for _ in range(len(nums))]
 
